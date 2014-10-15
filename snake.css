@@ -1,0 +1,54 @@
+html, body, ul, li, h1 {
+  margin: 0;
+  border: 0;
+  padding: 0;
+}
+
+body {
+  background: url('img/bg.jpg');
+}
+
+h1 {
+  font-size: 32pt;
+  color: white;
+  text-align: center;
+  border-bottom: 5px solid green;
+  font-family: sans-serif;
+  display: block;
+
+}
+
+section {
+  margin: 50px auto;
+  height: 600px;
+  width: 600px;
+  border: 20px solid #DF01A5;
+}
+
+li {
+  list-style: none;
+  width: 18px;
+  height: 18px;
+  border: 1px solid pink;
+  background: pink;
+}
+
+
+ul {
+  float: right;
+}
+
+.snake {
+  background: transparent;
+}
+
+.apple {
+  background: url('img/MacBook_white.png');
+  background-position: center;
+  height: 18px;
+  width: 18px;
+}
+
+.head {
+  background: transparent;
+}
