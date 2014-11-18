@@ -5,5 +5,5 @@
 This app does not use the canvas element to implement the game. The most recent version of the game is on my Porfolio site - github: https://github.com/nnakagaki/Portfolio.git
 
 == To run locally
-* download zip-file or run <tt>git clone https://github.com/nnakagaki/asteroid-game.git</tt>
-* open lib/index.html in a browser
+* download zip-file or run <tt>git clone https://github.com/nnakagaki/snake.git</tt>
+* open snake.html in a browser
